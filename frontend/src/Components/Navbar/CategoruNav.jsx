@@ -11,7 +11,7 @@ import {
 const CategoryNav = () => {
   return (
     <Center
-      w={"100vw"}
+    overflowX="auto"
       display={{ base: "none", md: "center", lg: "center" }}
     >
       <Flex
